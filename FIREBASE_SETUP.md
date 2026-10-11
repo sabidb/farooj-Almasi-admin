@@ -4,7 +4,7 @@ Do this once before rolling the new admin app to staff.
 Takes about 5 minutes in the Firebase Console.
 
 Everything below happens in the Firebase Console at
-<https://console.firebase.google.com/project/REPLACE_ALMASI_PROJECT_ID>.
+<https://console.firebase.google.com/project/farooj-almasii>.
 
 ---
 
